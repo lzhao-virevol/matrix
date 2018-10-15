@@ -1,6 +1,6 @@
 #README
 
-The folder contains 
+The folder contains modified ProtTest with a CRESS matrix.
 This version of ProtTest was modified from source code "prottest3-3.4.2-release.zip" to include an option for CRESS amino acid substitution matrix. The CRESS amino acid substitution matrix is an specific matrix derived from CRESS DNA viral protein sequences. The CRESS matrix .txt file can also be found inside "models" folder within this compressed file.The details concerning this matrix will be made available through future publication.
 
 Original source coded from:
