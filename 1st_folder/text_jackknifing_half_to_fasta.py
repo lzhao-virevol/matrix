@@ -1,7 +1,9 @@
-#This python script will randomize a txt file formatted like this:
+#To run: python text_jackknifing_half_to_fasta.py
+
+#This python script will randomize a txt file formatted as such:
 #ACCESSIONNAME\tSEQUENCE
 #
-#
+#And divide the sequences into to two halves
 #
 
 import sys
